@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @steph2088
-- 👀 I’m interested in Data science and computer sicence.
-- 🌱 I’m currently learning engineering through online program.
-- 💞️ I’m looking to collaborate on improving my python code.
-- 📫 How to reach me: startasleader@gmail.com ; https://www.linkedin.com/in/sophie-t-a6b593a/ 
+- 👀 I’m interested in Data Science, Computer Science, and applying science to daily applications.
+- 🌱 I’m looking for a full-time data-related job in the US.
+- 💞️ I’m looking to collaborate on improving my Python code and AI applications.
+- 📫 How to reach me: startasleader@gmail.com; https://www.linkedin.com/in/aoi-s-a6b593a/ 
 
 <!---
 steph2088/steph2088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
